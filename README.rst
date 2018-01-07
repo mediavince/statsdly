@@ -1,7 +1,7 @@
 statsdly
 ========
 
-StatsD server implemenation compatible with python3.
+StatsD server implementation compatible with python3.
 For python2 support see `Bucky <https://github.com/trbs/bucky>`_.
 
 Metrics are flushed into graphite/carbon.
